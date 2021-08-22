@@ -12,3 +12,8 @@ module.exports = {
     users: users(sequelize, DataTypes),
     
 }
+
+
+
+
+
